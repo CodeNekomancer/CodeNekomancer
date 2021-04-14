@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to the Nekomancers Reign. It's still work in progress, but we have cookies, you can get some ;)
+Welcome to the Nekomancer's Reign. It's still work in progress, but we have cookies, you can get some ;)

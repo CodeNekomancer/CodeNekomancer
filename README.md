@@ -1,4 +1,4 @@
-<h3 align="center">A necromancer who is capable of bringing you back to life. With the help of my spellbook I can take your soul from /dev/null and give it back to you. I'm not 9 cats on a trenchcoat.</h3>
+<h3 align="center">You can't spell "Necromancer" without "romance" because I'm in love with my job. I'm not 9 cats on a trenchcoat.</h3>
 
 <p align="left"> <a href="https://twitter.com/codenekomancer" target="blank"><img src="https://img.shields.io/twitter/follow/codenekomancer?logo=twitter&style=for-the-badge" alt="codenekomancer" /></a> </p>
 
